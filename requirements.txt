@@ -1,0 +1,5 @@
+streamlit
+openai
+duckduckgo-search
+# To install openai-agents-python, run:
+# uv pip install git+https://github.com/openai/openai-agents-python.git 
